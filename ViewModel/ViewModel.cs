@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Prism.Commands;
 using Prism.Mvvm;
 using System.Windows.Input;
+//Implementation of busness logic
 
 namespace WPF_MVVM_ICommand.ViewModel
 {
