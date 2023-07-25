@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using WPF_MVVM_ICommand.ViewModel;
+// this is the main program.
 
 namespace WPF_MVVM_ICommand
 {

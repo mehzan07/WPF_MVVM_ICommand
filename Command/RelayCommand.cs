@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Input;
+// implementation of ICommand
 
 
 namespace WPF_MVVM_ICommand
