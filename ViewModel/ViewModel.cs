@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Prism.Commands;
 using Prism.Mvvm;
 using System.Windows.Input;
-//Implementation of business logic in feature branch
+
 
 namespace WPF_MVVM_ICommand.ViewModel
 {
