@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Prism.Commands;
 using Prism.Mvvm;
 using System.Windows.Input;
+/// implementation of busniss logic
+/// 
 
 
 namespace WPF_MVVM_ICommand.ViewModel

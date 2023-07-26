@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Input;
-
+///Implementation of ICommand for binding
 
 
 
